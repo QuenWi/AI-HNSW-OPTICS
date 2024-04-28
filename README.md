@@ -6,7 +6,7 @@ This programm is used to showcase that an HNSW can be used for approximating an 
 It only works for 2D datasets, but in principle it would work for any dimensional datasets.
 
 When you run the script, than this will happen:
-1st: It shows the 2D plot
+<br>1st: It shows the 2D plot
 2nd: The program will approximate the minPts*3 nearest neighbors of each object by using a HNSW. 
 3rd: From the approximated nearest neighbors it will create a reachability plot.
 4th: It shows the user the plot.
