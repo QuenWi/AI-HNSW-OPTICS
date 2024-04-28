@@ -21,6 +21,6 @@ There also is an example run at the file:
 HNSW_Example_Run.py
 
 To run the program, it is required:
--pip install hnswlib
+<br>-pip install hnswlib
 (For this command you need the .Net SDK and the c++ builders tool)
 
